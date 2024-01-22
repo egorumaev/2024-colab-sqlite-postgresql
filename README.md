@@ -7,7 +7,7 @@
 
 ## **Примененные библиотеки и технологии**
 
-* sqlite3, aqlalchemy, pandas, missingno, matplotlib
+* sqlite3, sqlalchemy, pandas, missingno, matplotlib
 
 * SQLite, PostgreSQL, ElephantSQL, Goodle Colab, Google Drive
 
