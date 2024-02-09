@@ -1,13 +1,13 @@
 # 2024-colab-sqlite-postgresql
-Работа с SQL-запросами к базам данным SQLite и PostgreSQL в Google Colab 
+SQL-запросы в Google Colab с помощью SQLite и PostgreSQL 
 
-# **«SQLite & PostgreSQL. Работа с базой данных в Google Colab»**
+# **«SQLite & PostgreSQL. Анализ данных в Google Colab»**
 
 ---
 
 ## **Примененные библиотеки и технологии**
 
-* sqlite3, sqlalchemy, pandas, missingno, matplotlib
+* Sqlite3, SQLAlchemy, Pandas, Missingno, Matplotlib
 
 * SQLite, PostgreSQL, ElephantSQL, оконные функции, Goodle Colab, Google Drive
 
@@ -15,7 +15,7 @@
 
 ## **Цель и задачи проекта**
 
-**Цель** - реализовать подключение и отправку запросов к базам данных SQLite и PostgreSQL в Google Colab.
+**Цель** - провести анализ данных с помощью SQLite и PostgreSQL в Google Colab.
 
 **Задачи**: 
 
